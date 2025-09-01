@@ -5,27 +5,27 @@ Author: Austin McCollough
 Date: June 2025  
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-surprise
 
-Table of Contents
+# Table of Contents
 
-Project Overview
-Dataset
-Methodology
+## Project Overview
+## Dataset
+## Methodology
   1. Rank-Based Recommendations
   2. Collaborative Filtering
   3. Matrix Factorization (SVD)
   4. Hyperparameter Tuning
-Evaluation Metrics
-Results
-Key Takeaways
-Example Usage
-Business Value
-Next Steps
+## Evaluation Metrics
+## Results
+## Key Takeaways
+## Example Usage
+## Business Value
+## Next Steps
 
-Project Overview
+## Project Overview
 
 This project implements a robust recommendation engine for Amazon’s electronics catalog using collaborative filtering and matrix factorization. The goal is to help users discover products tailored to their preferences, leveraging historical ratings and advanced algorithms.
 
-Dataset
+## Dataset
 
 Source: Amazon Electronics ratings dataset
 Preprocessing:
@@ -34,7 +34,7 @@ Preprocessing:
   Columns: user_id, prod_id, rating
   No missing values; data types validated
 
-Methodology
+## Methodology
 
 1. Rank-Based Recommendations
 
@@ -55,7 +55,7 @@ Outperformed other models on all key metrics
 
 Used GridSearchCV to optimize model parameters for best RMSE, precision, recall, and F1 score
 
-Evaluation Metrics
+## Evaluation Metrics
 
 RMSE: Root Mean Squared Error (lower = better)
 Precision@10, Recall@10, F1 Score: Evaluates recommendation quality for top-10 suggestions per user
@@ -70,7 +70,7 @@ Results
 
 SVD outperformed all other models in both accuracy and recommendation quality.
 
-Key Takeaways
+## Key Takeaways
 
 Optimized SVD is the recommended algorithm for production deployment
 Regular retraining and tuning are essential as user behavior and product inventory evolve
@@ -94,11 +94,11 @@ svd.fit(trainset)
 Predict rating for a user and product
 svd.predict("A3LDPF5FMB782Z", "1400501466")
 
-Business Value
+## Business Value
 
 Deploying a well-tuned SVD model enables Amazon to deliver highly relevant product suggestions, driving user engagement and increasing sales. The approach is scalable, interpretable, and adaptable to changing user preferences.
 
-Next Steps
+## Next Steps
 
 Integrate the model into marketing and on-site personalization workflows
 Monitor performance and retrain periodically
