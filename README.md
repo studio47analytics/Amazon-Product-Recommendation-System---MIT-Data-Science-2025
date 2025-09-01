@@ -1,4 +1,4 @@
-# AmazonProductRecSystem_MIT2025
+# Amazon Product Recommendation System - MIT Data Science 2025
 Amazon Product Recommendation System
 
 Author: Austin McCollough  
