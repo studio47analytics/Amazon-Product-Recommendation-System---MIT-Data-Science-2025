@@ -109,6 +109,8 @@ See 2025_FINAL_A.McCollough_Amazon_Product_Recommendation.ipynb for full code an
 https://drive.google.com/file/d/134KUakdgFgAF7UPI-MEkTlk6Ofv11CfO/view?usp=share_link
 
 Want to collaborate or have questions? Reach out via [GitHub] or email.
+
 GH: https://github.com/amccolloughdatascience
+
 E: amcco.datascience@gmail.com
 
