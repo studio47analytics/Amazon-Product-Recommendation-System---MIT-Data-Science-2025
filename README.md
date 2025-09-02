@@ -27,12 +27,16 @@ This project implements a robust recommendation engine for Amazon’s electronic
 
 ## Dataset
 
-Source: Amazon Electronics ratings dataset
-Preprocessing:
+* Source: Amazon Electronics ratings dataset
+* Preprocessing:
   Users with ≥50 ratings, products with ≥5 ratings
   Final dataset: 65,290 ratings, 1,540 users, 5,689 products
   Columns: user_id, prod_id, rating
   No missing values; data types validated
+
+  [ratings_Electronics.csv]
+  
+  https://drive.google.com/file/d/1F_qMs2RBw0nPdL7fO5gY1kwmj5sGhBSu/view?usp=share_link
 
 ## Methodology
 
@@ -106,7 +110,8 @@ Expand with product metadata and user features for even better personalization
 
 Notebook:  
 See 2025_FINAL_A.McCollough_Amazon_Product_Recommendation.ipynb for full code and analysis.
-https://drive.google.com/file/d/134KUakdgFgAF7UPI-MEkTlk6Ofv11CfO/view?usp=share_link
+[Amazon Product Recommendation System Project Folder]
+https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link
 
 Want to collaborate or have questions? Reach out via [GitHub] or email.
 
