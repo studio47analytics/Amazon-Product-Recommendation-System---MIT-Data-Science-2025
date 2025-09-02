@@ -109,9 +109,14 @@ Monitor performance and retrain periodically
 Expand with product metadata and user features for even better personalization
 
 Notebook:  
-See 2025_FINAL_A.McCollough_Amazon_Product_Recommendation.ipynb for full code and analysis.
+
 [Amazon Product Recommendation System Project Folder]
 https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link
+
+See 2025_FINAL_A.McCollough_Amazon_Product_Recommendation.ipynb for full code and analysis.
+
+
+
 
 Want to collaborate or have questions? Reach out via [GitHub] or email.
 
