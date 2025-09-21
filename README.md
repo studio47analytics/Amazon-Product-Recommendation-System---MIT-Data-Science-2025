@@ -4,6 +4,7 @@ Amazon Product Recommendation System
 Author: Austin McCollough  
 Date: June 2025  
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-surprise
+Full Report & Code: [Google Drive - Amazon Product Recommendation](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
 
 # Table of Contents
 
@@ -108,14 +109,13 @@ Integrate the model into marketing and on-site personalization workflows
 Monitor performance and retrain periodically
 Expand with product metadata and user features for even better personalization
 
-Notebook:  
+For a detailed analysis, code, and visualizations, view the full report:  
 
-[Amazon Product Recommendation System Project Folder]
-https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link
+[Amazon Product Recommendation System Project Folder](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
 
-See 2025_FINAL_A.McCollough_Amazon_Product_Recommendation.ipynb for full code and analysis.
+Access all original datasets and supporting resources for this project here:  
 
-
+[Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1smXVZihW8WQLvSKUrkmQmI6mZAcJv6P2?usp=share_link)
 
 
 Want to collaborate or have questions? Reach out via [GitHub] or email.
