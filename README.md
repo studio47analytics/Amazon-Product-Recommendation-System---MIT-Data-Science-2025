@@ -118,7 +118,7 @@ Expand with product metadata and user features for even better personalization
 
 **For a detailed analysis, code, and visualizations, view the full report:**  
 
-  [Amazon Product Recommendation System Project Folder](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
+  [Google Drive - Amazon Product Recommendation](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
 
 **Access all original datasets and supporting resources for this project here:**  
 
