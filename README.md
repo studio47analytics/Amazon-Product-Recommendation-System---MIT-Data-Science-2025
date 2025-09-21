@@ -116,6 +116,8 @@ Integrate the model into marketing and on-site personalization workflows
 Monitor performance and retrain periodically
 Expand with product metadata and user features for even better personalization
 
+### Full Report & Code
+
 **For a detailed analysis, code, and visualizations, view the full report:**  
 
   [Google Drive - Amazon Product Recommendation](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
