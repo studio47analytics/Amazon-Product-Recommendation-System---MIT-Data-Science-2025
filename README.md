@@ -1,11 +1,17 @@
 # Amazon Product Recommendation System | MIT Applied Data Science - AI & Machine Learning 2025
-Amazon Product Recommendation System
+**Amazon Product Recommendation System**
 
-Author: Austin McCollough  
-Date: June 2025  
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-surprise
+Built an Amazon electronics product recommendation system using collaborative filtering, SVD, and hyperparameter tuning for personalized suggestions.  
 
-Full Report & Code: [Google Drive - Amazon Product Recommendation](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
+**Author:** Austin McCollough  
+
+**Program:** MIT Applied Data Science Program, Summer Cohort 2025
+
+**Date:** June 2025  
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-surprise
+
+**Full Report & Code:** [Google Drive - Amazon Product Recommendation](https://drive.google.com/drive/folders/1H0SfHq_smkli2ltG9QOVpKKVXGqQlRec?usp=share_link)
 
 # Table of Contents
 
